@@ -1,0 +1,6 @@
+C:\Users\Dawid\source\repos\Szpital_Projekt\Szpital_Projekt\bin\Release\Szpital_Projekt.exe.config
+C:\Users\Dawid\source\repos\Szpital_Projekt\Szpital_Projekt\bin\Release\Szpital_Projekt.exe
+C:\Users\Dawid\source\repos\Szpital_Projekt\Szpital_Projekt\bin\Release\Szpital_Projekt.pdb
+C:\Users\Dawid\source\repos\Szpital_Projekt\Szpital_Projekt\obj\Release\Szpital_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Szpital_Projekt\Szpital_Projekt\obj\Release\Szpital_Projekt.exe
+C:\Users\Dawid\source\repos\Szpital_Projekt\Szpital_Projekt\obj\Release\Szpital_Projekt.pdb
